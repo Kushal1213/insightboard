@@ -1,6 +1,6 @@
 # InsightBoard
 
-> **Mini Power BI + AI** — Upload a CSV, ask questions in plain English, get SQL-powered charts instantly.
+> **Mini Power BI + AI** — Upload a CSV, ask questions in plain English, get SQL powered charts instantly.
 
 -----
 
